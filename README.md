@@ -36,5 +36,5 @@ J'ai construit une suite de projets couvrant l'ensemble du spectre du test autom
 
 ## 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/seif-eddine-jemai-061265174/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-eddine-jemai-061265174/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seifeddinejemai@gmail.com)
